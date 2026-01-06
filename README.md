@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🍔 Online Food Delivery Platform – Requirements & Analysis Repository
 
 ## 📌 Project Overview
